@@ -1,5 +1,5 @@
 # 📉 AI-Based Sales Drop Analyzer
-MCA Mini Project
+
 
 ## What it does
 Upload any CSV file → detects sales drops → predicts future values → gives AI recommendations
